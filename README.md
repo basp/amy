@@ -1,5 +1,5 @@
 # Amy
-![Amy](https://github.com/basp/amy/assets/amy.png)
+![Amy](https://github.com/basp/amy/blob/main/assets/amy.png)
 
 The glitch-born queen.
 
